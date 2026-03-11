@@ -2,7 +2,7 @@ iambic.py is a python program that write bad poetry in iambic pentameter.
 It comes with several options, none of which are an option to write good poetry.
 
 ```
-usage: iambic_pentameter.py [-h] [--theme {night,nature,time,love,sea}] [--stanzas STANZAS] [--lines LINES]
+usage: iambic.py [-h] [--theme {night,nature,time,love,sea}] [--stanzas STANZAS] [--lines LINES]
                             [--rhyme RHYME] [--scansion] [--seed SEED] [--count COUNT]
 
 Generate poems in iambic pentameter
